@@ -1,0 +1,13 @@
+# Project exclude paths
+/target/
+/.idea/
+/keysets/
+/out/
+/users/
+/credentials/
+user.pm
+passwordmanager.iml
+/.gradle/
+/config/
+/user/
+local.properties
