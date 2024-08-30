@@ -1,6 +1,6 @@
 # Password Manager
 
-![screenshot of program](https://github.com/tmjonker/PasswordManager/blob/master/Images/main-screenshot.png)
+![screenshot of program](https://github.com/tmjonker8/PasswordManager/blob/master/Images/main-screenshot.png)
 
 ## Description
 
